@@ -37,3 +37,7 @@ Winner rolls to start.
 
 If you win on taking a tile from the wall, you get paid by all players.
 If you win by taking the tile a player is discarding, you get paid by them.
+
+# Acknowlegments
+
+TODO
